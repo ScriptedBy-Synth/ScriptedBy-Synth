@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is SuperTman09 and I'm a Frontend and Python Developer.</h2>
+<h2 align="left">Hi, My name is ScriptedBy-Synth and I'm a Frontend and Python Developer.</h2>
 
 
 <h3 align="left">About Me</h3>
